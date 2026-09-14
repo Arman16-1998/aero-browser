@@ -1,6 +1,6 @@
 # Aero Browser
 
-A Chromium-based privacy browser. No ads. No crypto. No telemetry. Fingerprint resistance on by default. Built by a small founding team, not a company.
+A Chromium-based privacy browser. No ads. No crypto. No telemetry. Fingerprint resistance on by default. Built by one 14-year-old kernel contributor from Hyderabad, growing into a small founding team.
 
 ## Status
 
